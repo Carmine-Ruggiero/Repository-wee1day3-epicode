@@ -1,0 +1,57 @@
+/* Aggiungi qui le regole CSS seguendo i passi dello slide-esercizio. */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz@0,8..144;1,8..144&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+section{
+    color:  #1F3D7A;
+}
+
+title{
+    color: #F44A4A;
+}
+.footer{
+    background: #172136;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    
+}
+.lastbutton{
+    color:  hsl(220, 60%, 30%); 
+
+    
+}
+
+body{
+    font-family:"Roboto", sans-serif;
+}
+
+.lastbutton:hover {
+  background-color:hsl(220, 60%, 45%)
+}
+ 
+
+nav{
+    background-image: url(assets/header-bg.jpg);
+    width: 50%;
+}
+
+nav:focus{
+    color: black;
+    
+}
+
+.classall-input:focus{
+color: #232323;
+
+}
+.classall-input{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.allthelink-color{
+    color: aquamarine;
+}
+
+
